@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oxid
 - 👀 I’m interested in Programming in various different languages 
 - 🌱 I’m currently learning Python due to school
-- 📫 How to reach me 0XID#5114 on discord
+- 📫 How to reach me: 0XID#5114 on discord
 
 
 <!---
